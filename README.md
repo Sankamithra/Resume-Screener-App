@@ -1,7 +1,7 @@
 <p align="center">
 
 <!-- ![Resume-Screener-App](Images/atlas.png) -->
-<img src="Images/rm_logo.png"/>
+<img src="Images/atlas.png"/>
 </p>
 
 # ATS Software
