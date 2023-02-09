@@ -4,7 +4,7 @@
 <img src="Images/rm_logo.png"/>
 </p>
 
-# Naive-Resume-Matcher
+# ATS Software
 <p align="center">
 <a href="https://img.shields.io/badge/Tested%20on-WSL%202.0-brightgreen"><img src="https://img.shields.io/badge/Tested%20on-WSL%202.0-brightgreen"/> </a>
 <a href="https://img.shields.io/github/issues/srbhr/Naive-Resume-Matching?color=blueviolet">
