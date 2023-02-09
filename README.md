@@ -1,6 +1,6 @@
 <p align="center">
 
-<!-- ![Naive Resume Matcher Logo](Images/atlas.png) -->
+<!-- ![Resume-Screener-App](Images/atlas.png) -->
 <img src="Images/rm_logo.png"/>
 </p>
 
