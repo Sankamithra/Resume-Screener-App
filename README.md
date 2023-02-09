@@ -46,10 +46,6 @@ For this :-
 3. [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation) (Latent Dirichlet Allocation) is done to extract the Topics from the Document set.(In this case Resumes)
 4. Additional Plots are done to gain more insights about the document.
 
-## Preview
-![Working Video](Screenshots/Gif_View.gif)
----
-
 ## Progress Flow
 
 1. Input is Resumes and Job Description, the current code is capable to compare resumes to multiple job descriptions.
